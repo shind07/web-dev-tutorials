@@ -9,3 +9,7 @@ Shouout to [Traversy Media Youtube Channel](https://www.youtube.com/channel/UC29
 
 ## CSS Grid Layout Crash Course
 - [Link to video](https://www.youtube.com/watch?v=jV8B24rSN5o)
+
+## Responsive CSS Grid Website Layout
+- [Link to video](https://www.youtube.com/watch?v=M3qBpPw77qo)
+
