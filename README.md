@@ -13,3 +13,5 @@ Shouout to [Traversy Media Youtube Channel](https://www.youtube.com/channel/UC29
 ## Responsive CSS Grid Website Layout
 - [Link to video](https://www.youtube.com/watch?v=M3qBpPw77qo)
 
+## Microsoft Homepage Clone
+- [Link to video](https://www.youtube.com/watch?v=uKgn-To1C4Q)
